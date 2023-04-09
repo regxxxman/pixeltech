@@ -6,7 +6,7 @@
       >
         <NuxtLink class="text-3xl font-black">
           <span
-            class="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent"
+            class="animate-text bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-clip-text text-transparent"
             >Pixel</span
           >Tech
         </NuxtLink>
