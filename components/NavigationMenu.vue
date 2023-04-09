@@ -4,7 +4,7 @@
       <nav
         class="h-20 dark:text-white flex justify-between [&>*]:my-auto last:pr-5"
       >
-        <NuxtLink class="text-3xl font-black">
+        <NuxtLink href="/" class="text-3xl font-black">
           <span
             class="animate-text bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-clip-text text-transparent"
             >Pixel</span

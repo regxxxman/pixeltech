@@ -21,8 +21,10 @@
         </p>
 
         <div class="btn-group [&>*]:h-20 w-1/2">
-          <button class="btn btn-block">Войти</button>
-          <button class="btn btn-block">Регистрация</button>
+          <button class="btn btn-block btn-outline text-white">Войти</button>
+          <button class="btn btn-block btn-outline text-white">
+            Регистрация
+          </button>
         </div>
       </div>
       <div class="text-white">2</div>
