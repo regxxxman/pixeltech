@@ -10,13 +10,15 @@
             >Pixel</span
           >Tech
         </NuxtLink>
-        <ul class="dark:text-gray-300 font-light flex [&>*]:pl-3">
+        <ul class="dark:text-gray-300 font-light flex [&>*]:pl-8">
           <li>Главная</li>
           <li>О нас</li>
           <li>Начать играть</li>
           <li>Форум</li>
         </ul>
-        <div class="flex gap-x-4">
+
+        <div class="flex gap-x-2">
+          <ThemeSwitcher />
           <button class="btn">Войти</button>
           <button class="btn">Регистрация</button>
         </div>
